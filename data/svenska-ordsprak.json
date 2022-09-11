@@ -1,4 +1,42 @@
 [
-  { "text": "Adam sköt skulden på Eva och Eva på ormen." },
-  { "text": "Adel utan dygd är lykta utan ljus." }
+  {
+    "text": "Adam sköt skulden på Eva och Eva på ormen.",
+    "translation-EN": "Adam put the blame on Eve and Eve on the serpent."
+  },
+  {
+    "text": "Adel utan dygd är lykta utan ljus.",
+    "translation-EN": "Nobility without virtue is a lantern without light."
+  },
+  {
+    "text": "Adjö, Svenserud, sa Päte, när han reste till Amerika och aldrig kom dit.",
+    "translation-EN": "Goodbye, Svenserud, said Päte, when he traveled to America and never got there."
+  },
+  {
+    "text": "Aftonen kröner morgonen.",
+    "translation-EN": "The evening crowns the morning."
+  },
+  {
+    "text": "Agan är god, när måtta är med.",
+    "translation-EN": "Discipline is good, when there is moderation."
+  },
+  {
+    "text": "Agelös lever, ärelös dör.",
+    "translation-EN": "Ageless lives, honorless dies."
+  },
+  {
+    "text": "Akta dig för den om vilken ingen talar väl.",
+    "translation-EN": "Beware of the one of whom no one speaks well."
+  },
+  {
+    "text": "Akta dig för det slags kattor, som smeka framman och klösa bak.",
+    "translation-EN": "Beware of the kind of cats that caress the front and scratch the back."
+  },
+  {
+    "text": "Akta dig för fiendegåvor.",
+    "translation-EN": "Beware of enemy gifts."
+  },
+  {
+    "text": "Akta dig för hunden, skuggan bits inte.",
+    "translation-EN": "Beware the dog, the shadow doesn't bite."
+  }
 ]
