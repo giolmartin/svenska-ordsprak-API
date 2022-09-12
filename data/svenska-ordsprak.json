@@ -1,15 +1,15 @@
 [
   {
     "text": "Adam sköt skulden på Eva och Eva på ormen.",
-    "translation-EN": "Adam shot the blame on Eva and Eva on the snake."
+    "translation-EN": "Adam put the blame on Eve and Eve on the serpent."
   },
   {
     "text": "Adel utan dygd är lykta utan ljus.",
-    "translation-EN": "Adel without virtue is lantern without light."
+    "translation-EN": "Nobility without virtue is a lantern without light."
   },
   {
-    "text": "Adjö Svenserud sa Päte när han reste till Amerika och aldrig kom dit. Värmland SVO",
-    "translation-EN": "Goodbye Svenserud said Pätte when he traveled to America and never got there.Värmland Svo"
+    "text": "Adjö Svenserud sa Päte när han reste till Amerika och aldrig kom dit.",
+    "translation-EN": "Goodbye Svenserud said Päte when he left for America and never got there."
   },
   {
     "text": "Aftonen kröner morgonen.",
@@ -17,19 +17,19 @@
   },
   {
     "text": "Agan är god när måtta är med.",
-    "translation-EN": "Agan is good when moderation is included."
+    "translation-EN": "Discipline is good in moderation."
   },
   {
     "text": "Agelös lever ärelös dör.",
-    "translation-EN": "Ageless liver eelless dies."
+    "translation-EN": "Ageless lives honorless dies."
   },
   {
     "text": "Akta dig för den om vilken ingen talar väl.",
-    "translation-EN": "Beware of the one about which no one speaks well."
+    "translation-EN": "Beware of the one of whom no one speaks well."
   },
   {
     "text": "Akta dig för det slags kattor som smeka framman och klösa bak.",
-    "translation-EN": "Beware of the kind of cats that caress the foreman and scratch behind."
+    "translation-EN": "Beware of the kind of cats that caress the front and scratch the back."
   },
   {
     "text": "Akta dig för fiendegåvor.",
@@ -37,46 +37,158 @@
   },
   {
     "text": "Akta dig för hunden skuggan bits inte.",
-    "translation-EN": "Beware of the dog shadow bits not."
+    "translation-EN": "Beware the dog the shadow doesn&#39;t bite."
   },
   {
     "text": "Akta dig för ond gärning lögn får snart vändning.",
     "translation-EN": "Beware of evil deed lie will soon turn."
   },
   {
-    "text": "Akta huvet sa mästerman. Stockholm SVO",
-    "translation-EN": "Beware the hood said Masterman.Stockholm Svo"
+    "text": "Akta huvet sa mästerman.",
+    "translation-EN": "Watch the hood said master."
   },
   {
     "text": "Aldrig gott köp i dålig vara.",
-    "translation-EN": "Never good purchase in bad goods."
+    "translation-EN": "Never a good buy in a bad product."
   },
   {
     "text": "Aldrig läkes såret så väl att inte ärret syns.",
-    "translation-EN": "Never healed the wound so well that the scar is not visible."
+    "translation-EN": "The wound never heals so well that the scar is not visible."
   },
   {
     "text": "Aldrig någon olycka att inte lycka är med.",
-    "translation-EN": "Never any accident that happiness is not with."
+    "translation-EN": "There is never an accident that does not involve happiness."
   },
   {
     "text": "Aldrig så elakt väder att inte den döde måste ut.",
-    "translation-EN": "Never so nasty weather that the dead must not have to go out."
+    "translation-EN": "Never so bad weather that the dead man had to go out."
   },
   {
     "text": "Aldrig så gammal att man inte tror sig få leva ännu längre.",
-    "translation-EN": "Never so old that you don't think you can live anymore anymore."
+    "translation-EN": "Never so old that you don&#39;t think you&#39;ll live any longer."
   },
   {
     "text": "Aldrig så långt emellan bergen att inte trollen råkas.",
-    "translation-EN": "Never so far between the mountains that the troll is not happening."
+    "translation-EN": "Never so far between the mountains that the trolls don&#39;t happen."
   },
   {
     "text": "Aldrig är dagen så lång att inte aftonen kommer.",
-    "translation-EN": "The day is never so long that the evening will not come."
+    "translation-EN": "The day is never so long that the evening does not come."
   },
   {
     "text": "Aldrig är fågeln så liten att han inte söker sig bo.",
-    "translation-EN": "Never is the bird so small that he does not seek to live."
+    "translation-EN": "The bird is never so small that it does not seek a home."
+  },
+  {
+    "text": "Aldrig är vädret så kallt att prästen fryser i kyrkan så länge offret räcker.",
+    "translation-EN": "The weather is never so cold that the priest freezes in the church as long as the sacrifice lasts."
+  },
+  {
+    "text": "All begynnelse är svår.",
+    "translation-EN": "All beginnings are difficult."
+  },
+  {
+    "text": "All hjärna finnes inte i ett huvud.",
+    "translation-EN": "All the brain is not in one head."
+  },
+  {
+    "text": "All ursäkt är god när den antages.",
+    "translation-EN": "Any excuse is good when accepted."
+  },
+  {
+    "text": "Alla barn i början sa gubben satte sig i vävstolen.",
+    "translation-EN": "All the children at the beginning said the old man sat down in the loom."
+  },
+  {
+    "text": "Alla bli ej präster som gå i skolan.",
+    "translation-EN": "Not everyone becomes a priest who goes to school."
+  },
+  {
+    "text": "Alla behöver kristlig fostran och vård sa bonden piskade lopporna med kyrkkäppen.",
+    "translation-EN": "Everyone needs Christian upbringing and care, said the farmer, whipping the fleas with the church stick."
+  },
+  {
+    "text": "Alla dagar är inte bakedagar.",
+    "translation-EN": "Not all days are baking days."
+  },
+  {
+    "text": "Alla dö inte som lida nöd.",
+    "translation-EN": "Not all die who suffer want."
+  },
+  {
+    "text": "Alla frågar om man är rik få om man är from.",
+    "translation-EN": "Everyone asks if you are rich, few if you are pious."
+  },
+  {
+    "text": "Alla goda ting är tre.",
+    "translation-EN": "All good things are three."
+  },
+  {
+    "text": "Alla känna apan men apan känner ingen.",
+    "translation-EN": "Everyone knows the monkey but the monkey knows no one."
+  },
+  {
+    "text": "Alla lemmar lyda huvudet.",
+    "translation-EN": "All limbs obey the head."
+  },
+  {
+    "text": "Alla leva vi vid en Gud men icke vid en lycka.",
+    "translation-EN": "We all live by a God but not by a happiness."
+  },
+  {
+    "text": "Alla moln ger inte regn.",
+    "translation-EN": "Not all clouds bring rain."
+  },
+  {
+    "text": "Alla skor görs inte över en läst.",
+    "translation-EN": "Not all shoes are made over a last."
+  },
+  {
+    "text": "Alla svin är svarta i mörkret.",
+    "translation-EN": "All pigs are black in the dark."
+  },
+  {
+    "text": "Alla vackra flickor vilja gifta sig och de fula ändå hellre.",
+    "translation-EN": "All beautiful girls want to get married and the ugly ones would rather."
+  },
+  {
+    "text": "Alla veta råd förutom den i våndan står.",
+    "translation-EN": "Everyone knows the advice except the one in agony."
+  },
+  {
+    "text": "Alla vill att yxan skall gå men ingen vill hålla i skaftet.",
+    "translation-EN": "Everyone wants the ax to go, but no one wants to hold the handle."
+  },
+  {
+    "text": "Alla vill ha narren men ingen vill föda honom.",
+    "translation-EN": "Everyone wants the fool but no one wants to give birth to him."
+  },
+  {
+    "text": "Alla vill luta åt den sidan lasset välter.",
+    "translation-EN": "Everyone wants to lean to the side the load is tipping over."
+  },
+  {
+    "text": "Alla vill vara gamla men ingen vill heta det.",
+    "translation-EN": "Everyone wants to be old but no one wants to be called that."
+  },
+  {
+    "text": "Alla vill vara herrar men ingen vill bära säcken.",
+    "translation-EN": "Everyone wants to be gentlemen but no one wants to carry the sack."
+  },
+  {
+    "text": "Alla vill över där gärdesgården är lägst.",
+    "translation-EN": "Everyone wants to cross where the fence is lowest."
+  },
+  {
+    "text": "Alla sätt är bra utom de dåliga.",
+    "translation-EN": "All ways are good except the bad ones."
+  },
+  {
+    "text": "Alla vägar bär till Rom.",
+    "translation-EN": "All roads lead to Rome."
+  },
+  {
+    "text": "Alla är vi barn i början.",
+    "translation-EN": "We are all children in the beginning."
   }
 ]
