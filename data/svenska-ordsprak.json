@@ -1,6 +1,6 @@
 [
   {"text": "Adam sköt skulden på Eva och Eva på ormen." ,"translation-EN":"Adam put the blame on Eve and Eve on the serpent."},
-{"text": "Adel utan dygd är lykta utan ljus." ,"translation-EN":"Nobility without virtue is a lantern without light."},
+  {"text": "Adel utan dygd är lykta utan ljus." ,"translation-EN":"Nobility without virtue is a lantern without light."},
 {"text": "Adjö, Svenserud, sa Päte, när han reste till Amerika och aldrig kom dit." ,"translation-EN":"Goodbye, Svenserud, said Päte, when he traveled to America and never got there."},
 {"text": "Aftonen kröner morgonen." ,"translation-EN":"The evening crowns the morning."},
 {"text": "Agan är god, när måtta är med." ,"translation-EN":"Discipline is good, when there is moderation."},
@@ -48,8 +48,6 @@
 {"text": "Alla vägar bär till Rom." ,"translation-EN":"All roads lead to Rome."},
 {"text": "Alla är vi barn i början." ,"translation-EN":"We are all children in the beginning."},
 {"text": "Alla vill vara herrar, men ingen vill bära säcken." ,"translation-EN":"Everyone wants to be gentlemen, but no one wants to carry the sack."},
-{"text": "Strauss, Emanuel . . Concise Dictionary of European Proverbs. II. Routledge.  . ISBN ." ,"translation-EN":"Strauss, Emanuel . . Concise Dictionary of European Proverbs. II. Routledge.  . ISBN .
-"},
 {"text": "Alla är inte goda kockar, som bära stora knivar." ,"translation-EN":"Not everyone is a good cook who carries big knives."},
 {"text": "Alle mans vän är ofta var mans narr." ,"translation-EN":"Every man's friend is often every man's fool."},
 {"text": "Allestädes framme, sällan välkommen." ,"translation-EN":"Everywhere, rarely welcome."},
@@ -1466,7 +1464,8 @@
 {"text": "Guldet prövar mannen." ,"translation-EN":"The gold tests the man."},
 {"text": "Guldet är aldrig så rött, att det ej går åt för bröd." ,"translation-EN":"The gold is never so red that it cannot be used for bread."},
 {"text": "Guldnyckeln läser upp alla lås." ,"translation-EN":"The gold key reads all locks."},
-{"text": "Gunst gör en mild dom." ,"translation-EN":"Favor makes a mild judgment."},
+{"text": "Gunst gör en mild dom." ,
+"translation-EN":"Favor makes a mild judgment."},
 {"text": "Gyllene betsel förbättrar inte hästen." ,"translation-EN":"Golden bridles do not improve the horse."},
 {"text": "Gå inte över ån efter vatten." ,"translation-EN":"Do not cross the stream for water."},
 {"text": "Gå som katten kring het gröt." ,"translation-EN":"Walk like a cat around hot porridge."},
@@ -1843,8 +1842,7 @@
 {"text": "Kasta inte pärlor för svin." ,"translation-EN":"Do not cast pearls before swine."},
 {"text": "Kasta inte ut barnet med badvattnet." ,"translation-EN":"Don't throw the baby out with the bath water."},
 {"text": "Kasta inte sten i glashus." ,"translation-EN":"Don't throw stones in glass houses."},
-{"text": "Henry Hazlitt, Thinking As A Science" ,"translation-EN":"Henry Hazlitt, Thinking As A Science
-"},
+
 {"text": "Kasta ut kroken, det nappar väl någon gång." ,"translation-EN":"Throw out the hook, it will bite at some point."},
 {"text": "Katten hade väl gärna fisken, men vill inte väta sina fötter." ,"translation-EN":"The cat would have liked the fish, but doesn't want to get his feet wet."},
 {"text": "Katten vet nog vem han smeker." ,"translation-EN":"The cat probably knows who he's petting."},
@@ -1852,8 +1850,7 @@
 {"text": "Kattens lek är råttans död." ,"translation-EN":"A cat's play is a rat's death."},
 {"text": "Klaga för hyndan, att valpen bet." ,"translation-EN":"Complain to the dog that the puppy bit."},
 {"text": "Klaga inte över för lite vind  lär dig segla." ,"translation-EN":"Don't complain about a little wind teach you to sail."},
-{"text": "Francis Bacon Essays" ,"translation-EN":"Francis Bacon Essays
-"},
+
 {"text": "Klockarens ko får beta på kyrkogården." ,"translation-EN":"The bellman's cow is allowed to graze in the cemetery."},
 {"text": "Klokhet har ögon i nacken." ,"translation-EN":"Wisdom has eyes in the neck."},
 {"text": "Klokhet sätter mannen på sätet." ,"translation-EN":"Wisdom puts the man on the seat."},
@@ -2011,8 +2008,7 @@
 {"text": "Lika trivas bäst med lika." ,"translation-EN":"Equals thrive best with equals."},
 {"text": "Likhet i stånd är kärleksband." ,"translation-EN":"Equality in status is love bond."},
 {"text": "Likt älskar likt." ,"translation-EN":"Like love like."},
-{"text": "List emot list." ,"translation-EN":"List emot list.
-"},
+
 {"text": "List och lycka ha stor kraft." ,"translation-EN":"Cunning and luck have great power."},
 {"text": "Lita ej på andra, när du kan uträtta saken själv." ,"translation-EN":"Don't rely on others when you can do it yourself."},
 {"text": "Lita inte till en annan, det du själv kan göra." ,"translation-EN":"Do not entrust to another, what you can do yourself."},
@@ -3192,8 +3188,7 @@
 {"text": "Tala utan att tänka är skjuta utan att sikta." ,"translation-EN":"Talking without thinking is shooting without aiming."},
 {"text": "Tala är silver, tiga är guld." ,"translation-EN":"Speech is silver silence is golden."},
 {"text": "Tala med bönder på bönders vis och med de lärde på latin." ,"translation-EN":"Speak to peasants in the manner of peasants and to the learned in Latin."},
-{"text": "sv.wiktionary.org" ,"translation-EN":"sv.wiktionary.org
-"},
+
 {"text": "Tand för tunga passar väl både gamla och unga." ,"translation-EN":"Tooth for tongue is suitable for both old and young."},
 {"text": "Tankfull som en förlovad mö." ,"translation-EN":"Thoughtful as a betrothed maiden."},
 {"text": "Then är alltid god, som glup fyller." ,"translation-EN":"Then is always good that gluttony fills."},
@@ -3459,6 +3454,6 @@
 {"text": "Öst är öst, och väst är väst, och aldrig mötas de båda." ,"translation-EN":"East is East, and West is West, and never the twain shall meet."},
 {"text": "Öst, väst,  hemma bäst." ,"translation-EN":"East, West, home best."},
 {"text": "Övning ger färdighet." ,"translation-EN":"Practice makes perfect."},
-{"text": "Övning gör mästaren" ,"translation-EN":"Practice makes perfect"},
+{"text": "Övning gör mästaren" ,"translation-EN":"Practice makes perfect"}
 
 ]
